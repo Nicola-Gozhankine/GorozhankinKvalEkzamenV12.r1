@@ -1,1 +1,5 @@
-# GorozhankinKvalEkzamenV12.r1
+Работу выполнил студент грыппы 22ис Горожанкин Николай Евгеньевич 
+В этом репозитории лежит програмное решение на языке С# 
+Которое проодит расчет рангового коэффициента корреляции
+Спирмена для оценки согласованности ответов экспертов.
+Код решение находится в https://github.com/Nicola-Gozhankine/GorozhankinKvalEkzamenV12.r1/blob/master/GorozhankinKvalEkzamenV12.r1/Program.cs
